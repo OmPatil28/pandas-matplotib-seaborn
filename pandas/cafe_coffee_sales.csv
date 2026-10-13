@@ -1,0 +1,31 @@
+Order_ID,Date,Day,Time,City,Product,Category,Size,Unit_Price_INR,Quantity,Total_Sales_INR,Payment_Method
+1,2026-01-01,Monday,09:15,Pune,Americano,Coffee,Small,120,2,240,UPI
+2,2026-01-01,Monday,10:05,Pune,Cappuccino,Coffee,Medium,160,3,480,Cash
+3,2026-01-01,Monday,11:20,Pune,Latte,Coffee,Large,190,2,380,Card
+4,2026-01-01,Monday,13:10,Pune,Cold Coffee,Cold Coffee,Medium,180,4,720,UPI
+5,2026-01-02,Tuesday,08:45,Pune,Espresso,Coffee,Small,100,3,300,Cash
+6,2026-01-02,Tuesday,09:30,Pune,Mocha,Coffee,Medium,175,2,350,UPI
+7,2026-01-02,Tuesday,12:15,Pune,Cappuccino,Coffee,Large,200,3,600,Card
+8,2026-01-02,Tuesday,17:40,Pune,Iced Latte,Cold Coffee,Medium,185,2,370,UPI
+9,2026-01-03,Wednesday,09:05,Pune,Americano,Coffee,Medium,140,4,560,UPI
+10,2026-01-03,Wednesday,10:50,Pune,Latte,Coffee,Medium,160,3,480,Cash
+11,2026-01-03,Wednesday,14:25,Pune,Cold Coffee,Cold Coffee,Large,210,2,420,Card
+12,2026-01-03,Wednesday,18:10,Pune,Mocha,Coffee,Large,210,3,630,UPI
+13,2026-01-04,Thursday,08:30,Pune,Espresso,Coffee,Small,100,5,500,Cash
+14,2026-01-04,Thursday,11:45,Pune,Cappuccino,Coffee,Medium,160,4,640,UPI
+15,2026-01-04,Thursday,16:20,Pune,Iced Latte,Cold Coffee,Large,220,2,440,Card
+16,2026-01-05,Friday,09:10,Pune,Latte,Coffee,Large,190,4,760,UPI
+17,2026-01-05,Friday,10:35,Pune,Americano,Coffee,Small,120,3,360,Cash
+18,2026-01-05,Friday,15:15,Pune,Cold Coffee,Cold Coffee,Medium,180,5,900,UPI
+19,2026-01-05,Friday,19:05,Pune,Mocha,Coffee,Medium,175,2,350,Card
+20,2026-01-06,Saturday,09:00,Pune,Cappuccino,Coffee,Large,200,6,1200,UPI
+21,2026-01-06,Saturday,11:30,Pune,Latte,Coffee,Medium,160,5,800,Card
+22,2026-01-06,Saturday,14:10,Pune,Cold Coffee,Cold Coffee,Large,210,4,840,UPI
+23,2026-01-06,Saturday,17:50,Pune,Iced Latte,Cold Coffee,Medium,185,3,555,Cash
+24,2026-01-07,Sunday,10:15,Pune,Americano,Coffee,Medium,140,4,560,UPI
+25,2026-01-07,Sunday,12:40,Pune,Cappuccino,Coffee,Medium,160,5,800,Card
+26,2026-01-07,Sunday,16:30,Pune,Mocha,Coffee,Large,210,3,630,UPI
+27,2026-01-07,Sunday,18:20,Pune,Cold Coffee,Cold Coffee,Medium,180,6,1080,Cash
+28,2026-01-08,Monday,09:40,Pune,Espresso,Coffee,Small,100,4,400,UPI
+29,2026-01-08,Monday,13:25,Pune,Latte,Coffee,Large,190,3,570,Card
+30,2026-01-08,Monday,17:15,Pune,Iced Latte,Cold Coffee,Large,220,4,880,UPI
